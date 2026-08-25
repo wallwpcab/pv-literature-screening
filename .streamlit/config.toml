@@ -1,0 +1,26 @@
+[server]
+
+headless = true
+
+enableXsrfProtection = true
+
+fileWatcherType = "none"
+
+maxUploadSize = 50
+
+
+
+[client]
+
+showErrorDetails = "full"
+
+browser.gatherUsageStats = false
+
+
+
+[theme]
+
+base = "light"
+
+primaryColor = "#1769aa"
+
